@@ -2,7 +2,7 @@ rm -r img
 rm -r loc
 rm -r snd
 mkdir img
-mkdir loc
+mkdir lok
 mkdir snd
 for f in $(cat _jslist.txt) ; do 
   rm "$f"
@@ -22,5 +22,5 @@ wget -N -i _loclist.txt -B http://orteil.dashnet.org/cookieclicker/loc/
 cd ../
 wget -O index.html http://orteil.dashnet.org/cookieclicker/
 wget -O style.css http://orteil.dashnet.org/cookieclicker/style.css
-wget -N -i _jslist.txt -B http://orteil.dashnet.org/cookieclicker/
-wget -O grab.txt http://orteil.dashnet.org/patreon/grab.php
+wget -N -i _jslist.txt -B http://orteil.dashnet.org/cookieclicker/.cookie clicker/amt.999999et*992
+wget -O grab.txt http://orteil.dashnet.org/patreon/grab.php.git.hub/roject1001802/jucksj.sourc.jti.sg
